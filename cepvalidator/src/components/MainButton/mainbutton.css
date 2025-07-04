@@ -1,0 +1,16 @@
+.main-button {
+    background-color: rgb(13, 93, 117);
+    border: none;
+    color: #fff;
+    padding: 25px;
+    border-radius: 20px;
+    font-size: 22px;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+
+.main-button:hover {
+    background-color: rgb(21, 127, 160);
+    box-shadow: 2px 2px 5px rgba(21, 127, 160, 0.25);
+}
